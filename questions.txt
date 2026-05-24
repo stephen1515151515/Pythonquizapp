@@ -1,0 +1,89 @@
+Q: What does CPU stand for?
+A: Central Processing Unit
+Options: Central Process Unit|Central Processing Unit|Computer Personal Unit|Core Processing Utility
+Difficulty: easy
+Category: Computer Basics
+
+Q: Which language is known as the 'mother of all languages'?
+A: C
+Options: Python|Java|C|Assembly
+Difficulty: easy
+Category: Programming
+
+Q: What does HTML stand for?
+A: HyperText Markup Language
+Options: HyperText Markup Language|High Tech Modern Language|HyperTransfer Markup Language|HyperText Module Language
+Difficulty: easy
+Category: Web
+
+Q: What is the output of print(2 ** 3) in Python?
+A: 8
+Options: 6|8|9|16
+Difficulty: easy
+Category: Python
+
+Q: Which data structure works on LIFO principle?
+A: Stack
+Options: Queue|Stack|Array|Linked List
+Difficulty: medium
+Category: Data Structures
+
+Q: What does AI stand for?
+A: Artificial Intelligence
+Options: Automated Input|Artificial Intelligence|Automated Intelligence|Advanced Interface
+Difficulty: easy
+Category: AI/ML
+
+Q: Which keyword is used to define a function in Python?
+A: def
+Options: function|define|def|fun
+Difficulty: easy
+Category: Python
+
+Q: What is the full form of RAM?
+A: Random Access Memory
+Options: Read Access Memory|Random Access Memory|Run Access Memory|Read And Memory
+Difficulty: easy
+Category: Computer Basics
+
+Q: Which symbol is used for single-line comments in Python?
+A: #
+Options: //|<!-- -->|#|--
+Difficulty: easy
+Category: Python
+
+Q: What is Machine Learning?
+A: A subset of AI that learns from data
+Options: A type of hardware|A subset of AI that learns from data|A programming language|A database system
+Difficulty: medium
+Category: AI/ML
+
+Q: What does SQL stand for?
+A: Structured Query Language
+Options: Structured Query Language|Simple Query Language|System Query Language|Structured Question Language
+Difficulty: medium
+Category: Database
+
+Q: Which of the following is NOT a Python data type?
+A: char
+Options: list|tuple|char|dict
+Difficulty: medium
+Category: Python
+
+Q: What is a neural network inspired by?
+A: The human brain
+Options: The human brain|Computer circuits|Mathematical equations|DNA structure
+Difficulty: medium
+Category: AI/ML
+
+Q: Which company developed Python?
+A: Guido van Rossum (not a company)
+Options: Microsoft|Google|Guido van Rossum (not a company)|Apple
+Difficulty: hard
+Category: Programming
+
+Q: What is the time complexity of binary search?
+A: O(log n)
+Options: O(n)|O(n²)|O(log n)|O(1)
+Difficulty: hard
+Category: Algorithms

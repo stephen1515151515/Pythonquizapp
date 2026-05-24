@@ -1,0 +1,5 @@
+# AI Quiz Generator – Scores Log
+# Format: [Date/Time]  Score: X/Y  (Z%)  Time: Ns
+# ─────────────────────────────────────────────────
+[2026-05-24 20:13:59]  Score: 0/1  (0%)  Time: 101s
+[2026-05-24 20:15:04]  Score: 9/9  (100%)  Time: 46s
